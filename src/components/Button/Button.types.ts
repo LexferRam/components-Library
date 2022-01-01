@@ -6,3 +6,4 @@ export interface ButtonProps {
     size?: "small" | "medium" | "large",
     onClick?: MouseEventHandler<HTMLButtonElement>
 }
+
