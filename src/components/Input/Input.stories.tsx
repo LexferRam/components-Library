@@ -4,7 +4,7 @@ import Input  from './Input';
 import {InputProps} from "./Input.types"
 
 export default {
-  title: 'Marbella/Input',
+  title: 'LexferComponents/Input',
   component: Input,
   argTypes: {
   },

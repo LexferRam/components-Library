@@ -5,7 +5,7 @@ import Button from './Button';
 import { ButtonProps } from "./Button.types"
 
 export default {
-    title: 'Marbella/Button',
+    title: 'LexferComponents/Button',
     component: Button,
     argTypes: {
     },
